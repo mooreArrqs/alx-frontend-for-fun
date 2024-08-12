@@ -2,12 +2,12 @@
 
 /* Setting the foreground color value */
 body {
-    color: #161616
+    color: #161616;
 }
 
 /* Setting the foreground color value for all anchor elements */
 a {
-   color: #161616
+   color: #161616;
 }
 
 /* 'visually hidden' elements display none */
@@ -17,11 +17,11 @@ a {
 
 /* Setting the foreground color for elements with the class 'card-category' */
 .card-catergory {
-    color: #D73953
+    color: #D73953;
 }
 
 /* Setting the foreground color for elements with the class 'section-tagline' */
 .section-tagline {
-    color: #D73953
+    color: #D73953;
 }
 
