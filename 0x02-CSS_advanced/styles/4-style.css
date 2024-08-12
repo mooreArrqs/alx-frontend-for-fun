@@ -1,0 +1,38 @@
+/* Updating styles accordingly */
+
+:root {
+  --font-family-base: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-family-title: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Setting body's font-familye */
+body {
+    font-familyr: var(--font-family-base);
+}
+
+/* Declaring section's headings style */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family-title);
+}
+
+/* Setting the foreground color value for all anchor elements */
+a {
+   color: var(--text-color);
+}
+
+/* 'visually hidden' elements display none */
+.visually-hidden {
+    display: none;
+}
+
+/* Setting the foreground color for elements with the class 'card-category' */
+.card-catergory {
+    color: var(--color-primary);
+}
+
+/* Setting the foreground color for elements with the class 'section-tagline' */
+.section-tagline {
+    color: var(--color-primary);
+}
+
