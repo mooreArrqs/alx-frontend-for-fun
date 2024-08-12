@@ -1,0 +1,27 @@
+/* Adding color to the web page */
+
+/* Setting the foreground color value */
+body {
+    color: #161616
+}
+
+/* Setting the foreground color value for all anchor elements */
+a {
+   color: #161616
+}
+
+/* 'visually hidden' elements display none */
+.visually-hidden {
+    display: none;
+}
+
+/* Setting the foreground color for elements with the class 'card-category' */
+.card-catergory {
+    color: #D73953
+}
+
+/* Setting the foreground color for elements with the class 'section-tagline' */
+.section-tagline {
+    color: #D73953
+}
+
