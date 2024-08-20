@@ -308,17 +308,6 @@
   }
   
   /*** 3. SECTION ***/
-
-  /* Section ABOUT US
-      ============================= */
-
-  .section-about-us {
-
-  }
-
-  .section-about-us [class^="col-"] {
-    align-self: center;
-  }
   
   /* Section (all styles)
       ============================= */
@@ -356,6 +345,18 @@
     padding: var(--section-footer-padding);
     text-align: var(--section-footer-align);
   }
+
+  /* Section ABOUT US
+      ============================= */
+
+  .section-about-us {
+
+  }
+
+  .section-about-us [class^="col-"] {
+    align-self: center;
+  }
+
 
   /* Section theming
       ============================= */
