@@ -1,0 +1,14 @@
+// This Sass file assigns the text color '#3D3D3D' to the HTML tags 'body' and 'p' tags
+// and the background color '#6D6D6D' to the HTML tags 'body' and 'h2' using variables.
+
+$primary-text-color: #3D3D3D;
+$primary-background-color: #6D6D6D;
+
+body, p {
+  color: $primary-text-color;
+}
+
+body, h2 {
+  background-color: $primary-background-color;
+}
+
