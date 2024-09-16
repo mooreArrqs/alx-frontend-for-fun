@@ -1,14 +1,6 @@
-// This Sass file assigns:
-// 1. Text color #3D3D3D to elements inside body tags.
-// 2. Text color #FF0000 to any elements of class .red that are the first children of the body.
-
 body {
-  // Setting text-color to #3D3D3D for all elements inside the body
-  color: #3D3D3D;
+  color: #3D3D3D; }
+  body .red:first-child {
+    color: #FF0000; }
 
-  // Now applying #FF0000 to the first child of the body with class .red
-  .red:first-child {
-  color: #FF0000;
-  }
-}
-
+/*# sourceMappingURL=5-nested_child.scss.map */
