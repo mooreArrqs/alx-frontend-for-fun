@@ -1,0 +1,10 @@
+// This file defines the background image for each name
+
+$list-names: amille, abu, lasizwe, buntu;
+
+@each $name in $list-names {
+  .#{name} {
+    background-image: url('/photos/#{$name}.jpg');
+  }
+}
+
