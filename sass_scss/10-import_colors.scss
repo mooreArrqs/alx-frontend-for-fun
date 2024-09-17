@@ -1,0 +1,17 @@
+// This file import colors from 10-colors.scss and assignes them to their
+// respective classes.
+
+@import '10-colors';
+
+.red {
+  color: $red;
+}
+
+.green {
+  color: $green;
+}
+
+.blue {
+  color: $blue;
+}
+
